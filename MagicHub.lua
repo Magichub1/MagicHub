@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Magichub1/MagicHub/main/MagicHub.lua"))()
+https://raw.githubusercontent.com/Magichub1/MagicHub/refs/heads/main/MagicHub.lua
